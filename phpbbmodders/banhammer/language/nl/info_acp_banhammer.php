@@ -39,5 +39,5 @@ if (empty($lang) || !is_array($lang))
 $lang = array_merge($lang, array(
 	'ACP_BH_TITLE'		=> 'Ban Hamer',
 	'ACP_BH_SETTINGS'	=> 'Ban Hamer Instellingen',
-	'BH_SETTINGS_SUCCESS'		=> 'Ban Hamer instellingen werden succesvol geupdate',
+	'BH_SETTINGS_SUCCESS'		=> 'Ban Hamer instellingen werden succesvol geüpdatet',
 ));
